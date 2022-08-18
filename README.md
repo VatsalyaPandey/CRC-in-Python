@@ -7,5 +7,11 @@ this project lets you perform the CRC on the same machine using the principles o
 
 # Pre-requisites required-
 > XOR gate
+
+
+
 > Theoretical basis of crc
+
+
+
 > Socket programming for server and client
